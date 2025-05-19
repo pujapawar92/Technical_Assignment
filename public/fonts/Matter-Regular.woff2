@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Matter';
+  src: url('/fonts/Matter-Regular.woff2') format('woff2'),
+       url('/fonts/Matter-Regular.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Matter';
+  src: url('/fonts/Matter-Bold.woff2') format('woff2'),
+       url('/fonts/Matter-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
